@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "TOCAssignment4b",
+"productVersion": "0.1",
+"dataUrl": "TOC-Final-WebGL.data.unityweb",
+"wasmCodeUrl": "TOC-Final-WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "TOC-Final-WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "TOC-Final-WebGL.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
